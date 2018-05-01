@@ -1,2 +1,5 @@
 # hello-world
-This is my first demo on GitHub. I'm new on coding. 
+Hello,
+
+My name is Prashant Jain.
+I have completed my Engineering and currently working as a Software Developer.
